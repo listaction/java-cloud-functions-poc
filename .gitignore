@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+#output
+target/**
+
+#intellij
+.idea/**
+*.iml
+
 # Log file
 *.log
 
